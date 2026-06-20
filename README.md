@@ -2,6 +2,25 @@
 # LOD-helper
 makes LOD settup, boundry boxes, import prefab items, check materials, pollygons, and more for there.com modeling!
 
+# Anchor grid
+When an empty is selected and you pick an item type you can use the anchor grid to move the bounding box to different areas from the empty object to change where your pin is dropped in there
+<img width="422" height="415" alt="image" src="https://github.com/user-attachments/assets/d1892f0f-e6cb-496a-9b9a-283d6c655a26" />
+
+# Viewport Display
+Choose which bounding boxes you want displayed for full customization
+<img width="425" height="149" alt="image" src="https://github.com/user-attachments/assets/90b3250d-6024-4ba6-b2ac-d5b964976c3a" />
+
+# Per Object Polly and Vert count 
+see each LOD and all the details about them with there.com accurate polys and verts, including your collider
+<img width="424" height="576" alt="image" src="https://github.com/user-attachments/assets/0a3c7c56-704d-458a-b443-0a709d6aba8b" />
+
+# Textures and pixel count
+see how many materials you have and how many pixels you've taken up so you're able to upload to there knowing exactly how big your textures are
+<img width="418" height="98" alt="image" src="https://github.com/user-attachments/assets/6be046bc-afdb-45d5-9070-cc7f8eaed10c" />
+
+# Prefab Importer
+Instant access to all there prefabs at the click of a button
+<img width="420" height="388" alt="image" src="https://github.com/user-attachments/assets/bfe5cc43-471f-4531-b433-6198842f50a9" />
 
 #  INSTALLATION:
 
