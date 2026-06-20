@@ -1,4 +1,8 @@
 ![Image](https://github.com/user-attachments/assets/67e247ca-8675-48c5-a760-5c0a08f09d2f)
+
+# GRAB THE LATEST RELEASE RIGHT HERE!
+<img width="1702" height="1081" alt="image" src="https://github.com/user-attachments/assets/6bf20d43-5237-434b-a37a-65eaedb90686" />
+
 # LOD-helper
 makes LOD settup, boundry boxes, import prefab items, check materials, pollygons, and more for there.com modeling!
 
