@@ -16,6 +16,7 @@ see each LOD and all the details about them with there.com accurate polys and ve
 
 # Textures and pixel count
 see how many materials you have and how many pixels you've taken up so you're able to upload to there knowing exactly how big your textures are
+
 <img width="418" height="98" alt="image" src="https://github.com/user-attachments/assets/6be046bc-afdb-45d5-9070-cc7f8eaed10c" />
 
 # Prefab Importer
