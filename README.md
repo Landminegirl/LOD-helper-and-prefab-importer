@@ -1,3 +1,7 @@
+buy me a coffee if you want <3
+https://buymeacoffee.com/landminegirl
+
+
 ![Image](https://github.com/user-attachments/assets/67e247ca-8675-48c5-a760-5c0a08f09d2f)
 
 # GRAB THE LATEST RELEASE TO THE RIGHT
@@ -39,8 +43,6 @@ then select the object you'd like to add the LODS to, and simply click the "Add 
 
 (TESTED ON BLENDER 2.8 TO 4.4)
 
-buy me a coffee if you want <3
-https://buymeacoffee.com/landminegirl
 
 Its just a .py script instead of a zipped folder so you can read through it, i know people are worried about malicious addons so i just wants to be really easily transparent with it
 
