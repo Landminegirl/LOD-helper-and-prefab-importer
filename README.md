@@ -1,3 +1,5 @@
+# JOIN THE DISCORD FOR ALL UPDATES TO TOOLS https://discord.gg/UZFnJvHspC
+
 buy me a coffee if you want <3
 https://buymeacoffee.com/landminegirl
 
